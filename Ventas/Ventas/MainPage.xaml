@@ -10,7 +10,8 @@
         <!-- Place new controls here -->
         <Label Text="Hola capoo!!!" 
            HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+           VerticalOptions="CenterAndExpand" />        
     </StackLayout>
+
 
 </ContentPage>
